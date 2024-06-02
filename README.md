@@ -22,8 +22,8 @@
 ### 프로젝트 후 보안
 > 추후에 재활용품 인식 프로젝트를 진행하였다       
 
-OpenCV와 YOLO를 활용한 컴퓨터 비전으로 재활용품을 실시간으로 구분하는 모델       
-[Computer-Vision-Recycling-Project](https://github.com/tina908/Computer-Vision-Recycling-Project)
+> OpenCV와 YOLO를 활용한 컴퓨터 비전으로 재활용품을 실시간으로 구분하는 모델       
+> [Computer-Vision-Recycling-Project](https://github.com/tina908/Computer-Vision-Recycling-Project)
 
 
 ***
